@@ -5,7 +5,7 @@
 - **Mã số sinh viên:** 24810320245
 - **Lớp:** D19QTANM1
 - **Tên môn học:** Lập trình C# / Windows Forms
-- **Tên bài tập:** Bài 1: Máy tính tính cước dịch vụ & Giảm giá
+- **Tên bài tập:** Ôn tập WindowForm
 
 ---
 
