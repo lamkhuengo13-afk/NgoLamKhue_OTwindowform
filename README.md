@@ -19,3 +19,16 @@
 
 #### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
 <img width="952" height="523" alt="image" src="https://github.com/user-attachments/assets/512fce0f-7fab-4efa-9f47-e364deb6299a" />
+
+### Bài tập 2
+#### 1. Ảnh màn hình Giao diện chính
+<img width="797" height="482" alt="Ảnh chụp màn hình 2026-10-08 141018" src="https://github.com/user-attachments/assets/b756cad3-4eca-4fa8-bd17-d50135e5d0f1" />
+
+#### 2. Ảnh màn hình Chức năng thực thi / Kết quả
+<img width="800" height="487" alt="image" src="https://github.com/user-attachments/assets/9234e01d-6636-436d-bdc4-0a3ab3ca15a6" />
+
+#### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
+<img width="870" height="740" alt="image" src="https://github.com/user-attachments/assets/fa7b222f-4069-4d1d-9693-fb52540e9cf1" />
+
+
+
